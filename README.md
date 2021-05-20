@@ -1,4 +1,4 @@
-# Rustc PR tracking
+# Dustc PR tracking
 
 This repository tracks the status of rustc's PRs over time: all the data is
 available in the CSV format, and it's updated daily by a bot running on GitHub
